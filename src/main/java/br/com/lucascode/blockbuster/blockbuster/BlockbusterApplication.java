@@ -1,6 +1,5 @@
 package br.com.lucascode.blockbuster.blockbuster;
 
-import br.com.lucascode.blockbuster.blockbuster.service.api.Omdb;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

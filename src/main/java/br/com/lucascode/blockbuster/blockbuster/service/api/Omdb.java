@@ -1,7 +1,7 @@
 package br.com.lucascode.blockbuster.blockbuster.service.api;
 
 import br.com.lucascode.blockbuster.blockbuster.model.DadosSerie;
-import br.com.lucascode.blockbuster.blockbuster.service.api.utils.ConverteDados;
+import br.com.lucascode.blockbuster.blockbuster.service.utils.ConverteDados;
 
 public class Omdb {
 

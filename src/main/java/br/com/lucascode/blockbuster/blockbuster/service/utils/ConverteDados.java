@@ -1,4 +1,4 @@
-package br.com.lucascode.blockbuster.blockbuster.service.api.utils;
+package br.com.lucascode.blockbuster.blockbuster.service.utils;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;

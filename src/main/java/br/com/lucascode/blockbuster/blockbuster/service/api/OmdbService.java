@@ -1,11 +1,8 @@
 package br.com.lucascode.blockbuster.blockbuster.service.api;
 
 import br.com.lucascode.blockbuster.blockbuster.model.DadosSerie;
-import br.com.lucascode.blockbuster.blockbuster.service.api.utils.ConverteDados;
-import com.fasterxml.jackson.databind.JsonNode;
-import org.springframework.http.ResponseEntity;
+import br.com.lucascode.blockbuster.blockbuster.service.utils.ConverteDados;
 import org.springframework.stereotype.Service;
-import org.springframework.web.client.RestTemplate;
 
 @Service
 public class OmdbService {
