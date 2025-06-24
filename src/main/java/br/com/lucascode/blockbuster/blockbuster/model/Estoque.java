@@ -2,6 +2,7 @@ package br.com.lucascode.blockbuster.blockbuster.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
+import jakarta.persistence.ManyToOne;
 
 import java.util.UUID;
 
@@ -10,6 +11,7 @@ public class Estoque {
 
     @Id
     private Long uuid;
+    @ManyToOne
     private Filme filme;
     private Long quantidade;
 
